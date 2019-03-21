@@ -18,12 +18,21 @@ Cables
 
 
 Instructions:
+
 Measure the voltages at you alarm panel terminals in the disarmed/armed/alarmed states.
+
 Note which terminals change voltages in the different states.
+
 Determine the resistor values to provide the correct 3.3V to D5/D6 http://www.ti.com/download/kbase/volt/volt_div3.htm
-Breadboard the project to test it out
-Download Blynk app for iOS/Android
-Use the included QR code to get the project, note your auth token which will be emailed to you
-Program the Wemos using Arduino IDE, use the Blynk server .ino  (local server for advanced users with their own server), remember to change the auth token and wifi details
-Test it all works as you want
+
+Breadboard the project to test it out. 
+
+Download Blynk app for iOS/Android. 
+
+Use the included QR code to get the project, note your auth token which will be emailed to you. 
+
+Program the Wemos using Arduino IDE, use the Blynk server .ino  (local server for advanced users with their own server), remember to change the auth token and wifi details. 
+
+Test it all works as you want. 
+
 Solder your project to a permanent stripboard/protoboard and fit to your alarm panel.
