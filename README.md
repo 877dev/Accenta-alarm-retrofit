@@ -8,16 +8,24 @@ The two LED's show if the alarm or sounder are active.
 When the sounder becomes active, an in app notification shows on the phone.
 
 You will need:
+-------------
 
 Wemos D1 mini
+
 Suitable 5V psu for the Wemos
-Protoboard/stripboard
+
+Protoboard or stripboard
+
 Resistors to create voltage divider to make 3.3V imputs
+
 NPN transistPCB mounted terminals
+
 Cables
 
 
+
 Instructions:
+-------------
 
 Measure the voltages at you alarm panel terminals in the disarmed/armed/alarmed states.
 
