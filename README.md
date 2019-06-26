@@ -18,7 +18,9 @@ Protoboard or stripboard
 
 Resistors to create voltage divider to make 3.3V imputs
 
-NPN transistPCB mounted terminals
+NPN transistor
+
+PCB mounted terminals
 
 Cables
 
@@ -27,7 +29,7 @@ Cables
 Instructions:
 -------------
 
-Measure the voltages at you alarm panel terminals in the disarmed/armed/alarmed states.
+Measure the voltages at your alarm panel terminals in the disarmed/armed/alarmed states.
 
 Note which terminals change voltages in the different states.
 
